@@ -69,4 +69,7 @@ dependencies {
 
     // Dependência do Navigation
     implementation("androidx.navigation:navigation-compose:2.6.0")
+
+    //Animação na navegação
+    implementation("com.google.accompanist:accompanist-navigation-animation:0.30.1")
 }
